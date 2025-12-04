@@ -86,9 +86,9 @@
 
 <div class="galeria">
   {#each partituras as p}
-    <button class="card" on:click={() => abrirPDF("http://localhost:5059" + p.pdfUrl)}>
-      <img src={"http://localhost:5059" + p.imagenUrl} alt={p.Titulo} />
-      <h5>{p.titulo}</h5>
+    <button class="card" on:click={() => abrirPDF("http://localhost:5285" + p.pdfUrl)}>
+      <img src={"http://localhost:5285" + p.imagenUrl} alt={p.Titulo} />
+      <h5>{p.compositor} - {p.titulo}</h5>
     </button>
 {/each}
 </div>

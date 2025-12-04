@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "m2KCea0ha780ly65XSCo94pj0tEppWXJJqPlXKSCh8TzFniMi/Rn9LJki8z+FERUlc05Wvw4higT+2xQy6KpPQ==",
+  "success": true,
+  "projectFilePath": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/domain/domain.csproj",
+  "expectedPackageFiles": [
+    "/home/alumno/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.3.0/microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
+    "/home/alumno/.nuget/packages/microsoft.aspnetcore.http.features/2.3.0/microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "/home/alumno/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/home/alumno/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

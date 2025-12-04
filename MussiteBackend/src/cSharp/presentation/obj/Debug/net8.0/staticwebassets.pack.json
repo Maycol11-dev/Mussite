@@ -1,0 +1,201 @@
+{
+  "Files": [
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/avatars/predeterminado.png",
+      "PackagePath": "staticwebassets/uploads/avatars/predeterminado.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/avatars/softeraser.jpg",
+      "PackagePath": "staticwebassets/uploads/avatars/softeraser.jpg"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/avatars/softeraser.png",
+      "PackagePath": "staticwebassets/uploads/avatars/softeraser.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/banners/bajobanner.jpg",
+      "PackagePath": "staticwebassets/uploads/banners/bajobanner.jpg"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/banners/predeterminado.jpg",
+      "PackagePath": "staticwebassets/uploads/banners/predeterminado.jpg"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/6d9b6369-11c9-4317-a564-52a4ecbc187d.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/6d9b6369-11c9-4317-a564-52a4ecbc187d.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/Carlos Seixas Sonata 23.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/Carlos Seixas Sonata 23.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/a611fce1-0780-453b-afca-edec2bc80b0e.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/a611fce1-0780-453b-afca-edec2bc80b0e.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/andreina.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/andreina.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/balade-1.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/balade-1.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/carora.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/carora.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/choro.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/choro.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/e2c319ed-8411-4f03-928e-30a157a26cc7.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/e2c319ed-8411-4f03-928e-30a157a26cc7.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/hungarian-2.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/hungarian-2.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/liebeslied.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/liebeslied.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/mallorca.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/mallorca.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/natalia.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/natalia.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/op34-2.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/op34-2.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/op64-2.jpeg",
+      "PackagePath": "staticwebassets/uploads/partituras/img/op64-2.jpeg"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/op69-1.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/op69-1.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/op72-1.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/op72-1.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/seelapregunta.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/seelapregunta.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/serenata.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/serenata.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/sibelius.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/sibelius.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/img/solitario.png",
+      "PackagePath": "staticwebassets/uploads/partituras/img/solitario.png"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/315b90e9-2729-4a2a-88d8-8fca6a5ab0c8.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/315b90e9-2729-4a2a-88d8-8fca6a5ab0c8.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/8037aa0c-6624-4726-8e25-577cd8425b0d.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/8037aa0c-6624-4726-8e25-577cd8425b0d.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/97234e25-361f-4bb1-baa8-20f59b7502f5.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/97234e25-361f-4bb1-baa8-20f59b7502f5.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/SeixasCarlos-Sonata23-24.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/SeixasCarlos-Sonata23-24.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/andreina.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/andreina.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/balade-1.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/balade-1.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/carora.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/carora.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/choro.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/choro.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/hungarian-2.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/hungarian-2.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/liebeslied.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/liebeslied.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/mallorca.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/mallorca.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/natalia.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/natalia.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/op34-2.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/op34-2.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/op64-2.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/op64-2.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/op69-1.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/op69-1.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/op72-1.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/op72-1.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/seelapergunta.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/seelapergunta.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/serenata.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/serenata.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/sibelius.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/sibelius.pdf"
+    },
+    {
+      "Id": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/presentation/wwwroot/uploads/partituras/pdf/solitario.pdf",
+      "PackagePath": "staticwebassets/uploads/partituras/pdf/solitario.pdf"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.presentation.props",
+      "PackagePath": "build\\presentation.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.presentation.props",
+      "PackagePath": "buildMultiTargeting\\presentation.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.presentation.props",
+      "PackagePath": "buildTransitive\\presentation.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.presentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

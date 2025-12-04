@@ -1,9 +1,12 @@
 <script>
+  import { onMount } from "svelte";
   import { user } from "../store/globaluser.js";
   import Cabecera from "./Cabecera.svelte";
   import SubirPartitura from "../lib/PerfilComp/SubirPartitura.svelte";
   import VerPerfil from "../lib/PerfilComp/VerPerfil.svelte";
   let vista = "VerPerfil";
+
+  let MisPartituras = [];
 
   const componentes = { "VerPerfil" : VerPerfil,"SubirPartitura": SubirPartitura };
 </script>

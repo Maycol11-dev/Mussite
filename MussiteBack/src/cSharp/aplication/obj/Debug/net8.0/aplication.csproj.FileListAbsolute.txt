@@ -1,0 +1,16 @@
+/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/aplication/bin/Debug/net8.0/aplication.deps.json
+/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/aplication/bin/Debug/net8.0/aplication.dll
+/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/aplication/bin/Debug/net8.0/aplication.pdb
+/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/aplication/bin/Debug/net8.0/domain.dll
+/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/aplication/bin/Debug/net8.0/domain.pdb
+/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/aplication/obj/Debug/net8.0/aplication.csproj.AssemblyReference.cache
+/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/aplication/obj/Debug/net8.0/aplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/aplication/obj/Debug/net8.0/aplication.AssemblyInfoInputs.cache
+/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/aplication/obj/Debug/net8.0/aplication.AssemblyInfo.cs
+/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/aplication/obj/Debug/net8.0/aplication.csproj.CoreCompileInputs.cache
+/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/aplication/obj/Debug/net8.0/aplication.sourcelink.json
+/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/aplication/obj/Debug/net8.0/aplication.csproj.CopyComplete
+/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/aplication/obj/Debug/net8.0/aplication.dll
+/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/aplication/obj/Debug/net8.0/refint/aplication.dll
+/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/aplication/obj/Debug/net8.0/aplication.pdb
+/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/aplication/obj/Debug/net8.0/ref/aplication.dll

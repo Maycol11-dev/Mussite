@@ -107,7 +107,7 @@ $: if (busqueda.trim() === "") {
       <div class="user-menu d-flex align-items-center">
         <button on:click={() => IrAComponente("/Perfil")}>
           <img
-            src={"http://localhost:5059" + $user.perfilUrl}
+            src={"http://localhost:5285" + $user.perfilUrl}
             alt="Avatar"
             width="40"
             height="40"

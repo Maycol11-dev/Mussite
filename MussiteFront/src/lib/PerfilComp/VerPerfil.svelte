@@ -3,12 +3,12 @@
 </script>
 
 <div class="fondo mb-4">
-    <img src={"http://localhost:5059" + user.bannerUrl} alt="Fondo de perfil" />
+    <img src={"http://localhost:5285" + user.bannerUrl} alt="Fondo de perfil" />
 </div>
 <div class="cuenta d-flex">
     <div class="perfil me-5">
         <img
-            src={"http://localhost:5059" + user.perfilUrl}
+            src={"http://localhost:5285" + user.perfilUrl}
             alt="Logo de perfil"
         />
         <div class="ms-3">

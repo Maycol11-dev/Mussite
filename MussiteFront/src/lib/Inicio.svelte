@@ -25,14 +25,10 @@
       <div class="informacion p-5">
         <h3>Presentación</h3>
         <p>
-          Mussite es una plataforma de distribución gratuita de partituras, en la cual
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime
-          distinctio sapiente perspiciatis ex, recusandae sit hic odio? Eos
-          soluta, architecto non sint cumque quaerat officia tenetur assumenda
-          officiis perspiciatis beatae. Lorem ipsum dolor sit amet consectetur,
-          adipisicing elit. Sequi eaque accusantium possimus. Voluptatum
-          laboriosam harum recusandae adipisci nulla odio, hic amet delectus est
-          magni architecto ut, quam corrupti, officiis dolorem.
+          Mussite es una plataforma digital dedicada a la clasificación, organización y distribución
+          de partituras y tablaturas musicales. Nuestro objetivo es ofrecer a estudiantes, docentes, entre otros,
+          un espacio rápido, simple e intuitivo donde puedan encontrar material musical según su tipo de
+          notación, el instrumento para el que fue compuesto y preferencias de búsqueda personalizadas.
         </p>
       </div>
     </div>

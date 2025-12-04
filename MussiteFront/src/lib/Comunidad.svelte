@@ -30,7 +30,7 @@
         {#if ($user.isLogged)}
           <img
           class="me-3"
-          src={"http://localhost:5059" + $user.perfilUrl}
+          src={"http://localhost:5285" + $user.perfilUrl}
           width="50px"
           height="50px"
           style={"border-radius: 100%"}
