@@ -1,7 +1,0 @@
-/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/presentation/obj/Debug/net8.0/presentation.csproj.AssemblyReference.cache
-/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/presentation/obj/Debug/net8.0/presentation.GeneratedMSBuildEditorConfig.editorconfig
-/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/presentation/obj/Debug/net8.0/presentation.AssemblyInfoInputs.cache
-/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/presentation/obj/Debug/net8.0/presentation.AssemblyInfo.cs
-/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/presentation/obj/Debug/net8.0/presentation.csproj.CoreCompileInputs.cache
-/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/presentation/obj/Debug/net8.0/presentation.MvcApplicationPartsAssemblyInfo.cache
-/home/alumno/Imágenes/Mussite/MussiteBack/src/cSharp/presentation/obj/Debug/net8.0/presentation.sourcelink.json
