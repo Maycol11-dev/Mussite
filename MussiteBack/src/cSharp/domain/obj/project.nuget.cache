@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w0f/Hj4pPko=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NoxiePC\\Documents\\GitHub\\Mussite\\MussiteBack\\src\\cSharp\\domain\\domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NoxiePC\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\NoxiePC\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\NoxiePC\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\NoxiePC\Downloads\Mussite\MussiteBack\src\cSharp\aplication\bin\Debug\net10.0\aplication.deps.json
+C:\Users\NoxiePC\Downloads\Mussite\MussiteBack\src\cSharp\aplication\bin\Debug\net10.0\aplication.dll
+C:\Users\NoxiePC\Downloads\Mussite\MussiteBack\src\cSharp\aplication\bin\Debug\net10.0\aplication.pdb
+C:\Users\NoxiePC\Downloads\Mussite\MussiteBack\src\cSharp\aplication\bin\Debug\net10.0\domain.dll
+C:\Users\NoxiePC\Downloads\Mussite\MussiteBack\src\cSharp\aplication\bin\Debug\net10.0\domain.pdb
+C:\Users\NoxiePC\Downloads\Mussite\MussiteBack\src\cSharp\aplication\obj\Debug\net10.0\aplication.csproj.AssemblyReference.cache
+C:\Users\NoxiePC\Downloads\Mussite\MussiteBack\src\cSharp\aplication\obj\Debug\net10.0\aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoxiePC\Downloads\Mussite\MussiteBack\src\cSharp\aplication\obj\Debug\net10.0\aplication.AssemblyInfoInputs.cache
+C:\Users\NoxiePC\Downloads\Mussite\MussiteBack\src\cSharp\aplication\obj\Debug\net10.0\aplication.AssemblyInfo.cs
+C:\Users\NoxiePC\Downloads\Mussite\MussiteBack\src\cSharp\aplication\obj\Debug\net10.0\aplication.csproj.CoreCompileInputs.cache
+C:\Users\NoxiePC\Downloads\Mussite\MussiteBack\src\cSharp\aplication\obj\Debug\net10.0\aplication.csproj.Up2Date
+C:\Users\NoxiePC\Downloads\Mussite\MussiteBack\src\cSharp\aplication\obj\Debug\net10.0\aplication.dll
+C:\Users\NoxiePC\Downloads\Mussite\MussiteBack\src\cSharp\aplication\obj\Debug\net10.0\refint\aplication.dll
+C:\Users\NoxiePC\Downloads\Mussite\MussiteBack\src\cSharp\aplication\obj\Debug\net10.0\aplication.pdb
+C:\Users\NoxiePC\Downloads\Mussite\MussiteBack\src\cSharp\aplication\obj\Debug\net10.0\ref\aplication.dll
