@@ -47,7 +47,6 @@ El proyecto sigue una **arquitectura de 3 capas** en el backend y utiliza tecnol
 ### 🔹 Backend
 - **C# – .NET 8**
 - ASP.NET Core Minimal API
-- Arquitectura de 3 capas (Presentation, Application, Domain)
 - Dapper (Micro-ORM)
 - MySqlConnector (Cliente ADO.NET para MySQL)
 - Swagger / OpenAPI
@@ -63,6 +62,10 @@ El proyecto sigue una **arquitectura de 3 capas** en el backend y utiliza tecnol
 - Diagrama **PERT - CPM** (PNG)
   
 ## 🚀 Ejecución del proyecto
+
+## Arquitectura y Diseño
+
+### Arquitectura de 3 capas (Presentation, Application, Domain)
 
 ### Backend
 
