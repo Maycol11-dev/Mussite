@@ -24,7 +24,7 @@ El proyecto sigue una **arquitectura de 3 capas** en el backend y utiliza tecnol
 ---
 
 ![Diagrama de Gantt](MussiteBackend/docs/Gantt.png)
-
+<p align="center"> Inicio : 01/12/2025 | Fin : 04/12/2025 | Horas en total : 93 => en Dias : 4 </p>
 ---
 
 ## 🧰 Tecnologías utilizadas
