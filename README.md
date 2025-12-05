@@ -42,7 +42,7 @@ El proyecto sigue una **arquitectura de 3 capas** en el backend y utiliza tecnol
 - **Vite** (dev server & build)
 - **JavaScript (Fetch API)**
 - HTML5 / CSS3
-- Bootstrap
+- Bootstrap (Framework CSS)
 
 ### 🔹 Backend
 - **C# – .NET 8**
