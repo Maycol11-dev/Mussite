@@ -42,8 +42,8 @@
         <div class="imagen">
           <img src="src/assets/banda.jpg" alt="foto de banda" />
         </div>
-        <div class="info ms-5 p-2">
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, impedit. Possimus amet, natus similique odio explicabo ducimus est assumenda cupiditate, vel aperiam suscipit velit fugiat porro? Nesciunt dolorem nulla ipsum.</p>
+        <div class="informacion p-5 me-5 ms-5">
+          <p>Los músicos y amantes de la música pueden descubrir y seguir bandas de distintos géneros y estilos. La plataforma permite que los artistas compartan sus composiciones, colaboren con otros músicos y creen espacios de interacción y aprendizaje. Nuestros usuarios pueden explorar nuevas bandas, ver fragmentos de partituras y tablaturas, conocer a sus integrantes y descubrir el estilo musical de cada banda, además de fomentar la participación de la comunidad a través de comentarios, valoraciones y recomendaciones, generando un ambiente donde tanto principiantes como profesionales pueden aprender, inspirarse y conectar con otros músicos.</p>
         </div>
       </div>
     
@@ -51,8 +51,8 @@
         <h3 style="border-bottom: 3px solid #00c3ff">Galería de Partituras</h3>
       </div>
       <div class="galeriaDePartituras d-flex">
-        <div class="info ms-5 p-2">
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, impedit. Possimus amet, natus similique odio explicabo ducimus est assumenda cupiditate, vel aperiam suscipit velit fugiat porro? Nesciunt dolorem nulla ipsum.</p>
+        <div class="informacion p-5 ms-5 me-5">
+          <p>Ofrecemos una galería de partituras con un extenso repertorio de composiciones, desde obras clásicas hasta tablaturas modernas de distintos instrumentos. Nuestros usuarios pueden filtrar el contenido por tipo de notación, instrumento, compositor y popularidad, facilitando la búsqueda de material específico para estudio o interpretación. Cada partitura incluye su respectiva portada y archivo PDF permitiendo a los músicos descargar, visualizar e imprimir sus obras favoritas de manera sencilla y rápida. Nuestra plataforma también incentiva la colaboración entre los usuarios, ya que pueden compartir partituras propias, valorar el trabajo de otros y descubrir nuevas composiciones que se adapten a sus intereses y nivel musical.</p>
         </div>
         <div class="imagen">
           <img src="src/assets/galeria.jpg" width="612px" height="387px" alt="foto de partitura" />
