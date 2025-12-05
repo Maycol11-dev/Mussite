@@ -83,6 +83,10 @@ npm run dev
 ```
 ## 📦 Paquetes Utilizados en el Proyecto
 
+### 📱 Diseño web
+
+* Bootstrap (5.3.8)
+
 ### 🗄️ Acceso a Datos
 
 * MySqlConnector (2.4.0)
