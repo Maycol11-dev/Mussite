@@ -60,12 +60,12 @@ El proyecto sigue una **arquitectura de 3 capas** en el backend y utiliza tecnol
 ### 🔹 Documentación del proyecto
 - Diagrama de **Gantt** (PNG)
 - Diagrama **PERT - CPM** (PNG)
-  
-## 🚀 Ejecución del proyecto
 
 ## Arquitectura y Diseño
 
 ### Arquitectura de 3 capas (Presentation, Application, Domain)
+
+## 🚀 Ejecución del proyecto
 
 ### Backend
 
