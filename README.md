@@ -49,6 +49,7 @@ El proyecto sigue una **arquitectura de 3 capas** en el backend y utiliza tecnol
 - ASP.NET Core Minimal API
 - Arquitectura de 3 capas (Presentation, Application, Domain)
 - Dapper (Micro-ORM)
+- MySqlConnector (Cliente ADO.NET para MySQL)
 - Swagger / OpenAPI
 
 ### 🔹 Base de Datos
