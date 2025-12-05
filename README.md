@@ -92,10 +92,6 @@ npm run dev
 
 * Mapster (7.4.0)
 
-### ✔️ Validación
-
-* FluentValidation (12.0.0)
-
 ### 📘 Documentación y API
 * Microsoft.AspNetCore.OpenApi (8.0.21)
 * Swashbuckle.AspNetCore (6.6.2)
