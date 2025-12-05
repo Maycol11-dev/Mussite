@@ -16,7 +16,6 @@
   async function handleLogin(event) {
     event.preventDefault();
 
-    try {
       const response = await fetch("/api/account/Login", {
         method: "POST",
         headers: {
@@ -32,9 +31,8 @@
       const data = await response.json();
 
       if (!response.ok) {
-        const errorData = await response.text();
-        console.log("Error en el servidor:", errorData);
-        alert("Error en el servidor");
+        console.log("Error en el servidor:", data);
+        alert(data.message ?? "Error en el servidor");
         return;
       }
 
@@ -48,11 +46,6 @@
       });
 
       location.hash = "#/Inicio";
-
-    } catch (error) {
-      console.error("Error: ", error);
-      alert("Registro fallido.");
-    }
   }
 
   async function handleRegister(event) {

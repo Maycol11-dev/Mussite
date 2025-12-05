@@ -16,11 +16,12 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+var connectionString = builder.Configuration.GetConnectionString("Admin");
 builder.Services.AddScoped<IUserRepo>(sp =>
-    new UserRepo("Server=localhost;Database=5to_mussitedatabase;Uid=admin;Password=Admin123!;")
+    new UserRepo(connectionString!)
 );
 builder.Services.AddScoped<IPartituraRepo>(sp =>
-    new PartituraRepo("Server=localhost;Database=5to_mussitedatabase;Uid=admin;Password=Admin123!;")
+    new PartituraRepo(connectionString!)
 );
 
 builder.Services.AddScoped<IPartituraService, PartituraServ>();
