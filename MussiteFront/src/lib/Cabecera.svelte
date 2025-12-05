@@ -107,7 +107,7 @@ $: if (busqueda.trim() === "") {
       <div class="user-menu d-flex align-items-center">
         <button on:click={() => IrAComponente("/Perfil")}>
           <img
-            src={"http://localhost:5285" + $user.perfilUrl}
+            src={$user.perfilUrl}
             alt="Avatar"
             width="40"
             height="40"
@@ -137,16 +137,10 @@ $: if (busqueda.trim() === "") {
                 alt="Cerrar"
               />
             </button>
-            <!-- <button class="btn btn-primary">Enviar código</button> -->
           </div>
         </div>
 
-        <input
-          type="text"
-          class="form-control"
-          placeholder="u/Usuario     g/Grupo     c/Compositor    g/Genero"
-          bind:value={busqueda}
-        />
+        <input type="text" class="form-control" placeholder="u/Usuario     g/Grupo     c/Compositor    g/Genero" bind:value={busqueda}/>
 
         <div class="contenido w-100 h-75 mt-3 p-2" style="overflow-y: auto">
           {#if resultados.length > 0}

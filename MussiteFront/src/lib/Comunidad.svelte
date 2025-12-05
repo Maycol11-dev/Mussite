@@ -30,7 +30,7 @@
         {#if ($user.isLogged)}
           <img
           class="me-3"
-          src={"http://localhost:5285" + $user.perfilUrl}
+          src={$user.perfilUrl}
           width="50px"
           height="50px"
           style={"border-radius: 100%"}
@@ -69,8 +69,8 @@
       </ul>
     </div>
 
-    <hr />
-    <hr />
+    <hr/>
+    <hr/>
 
     <div class="curso mb-4">
       <h5 class="mb-2 fw-bold">Cursos</h5>
@@ -82,34 +82,27 @@
         <option>Batería</option>
         <option>DAW</option>
       </select>
-      <button class="btn btn-info w-100" on:click={() => (vista = "Curso")}
-        >Filtrar</button
-      >
+      <button class="btn btn-info w-100" on:click={() => (vista = "Curso")}>Filtrar</button>
     </div>
 
-    <hr />
+    <hr/>
 
     <div class="servicios">
-      <button class="mb-2 fw-bold" on:click={() => (vista = "Servicio")}
-        >Servicios</button
-      >
+      <button class="mb-2 fw-bold" on:click={() => (vista = "Servicio")}>Servicios</button>
     </div>
 
     <hr>
 
     <div class="tienda">
-      <button class="mb-2 fw-bold" on:click={() => (vista = "Tiendas")}
-        >Tiendas</button
-      >
+      <button class="mb-2 fw-bold" on:click={() => (vista = "Tiendas")}>Tiendas</button>
     </div>
+
     <hr>
+
     <div class="mercado">
-      <button class="mb-2 fw-bold" on:click={() => (vista = "Mercado")}
-        >Mercado</button
-      >
+      <button class="mb-2 fw-bold" on:click={() => (vista = "Mercado")}>Mercado</button>
     </div>
   </div>
-
 
   <div class="contenidoDerecho col p-4">
     <svelte:component this={componentes[vista]} filtro={filtroCurso} />

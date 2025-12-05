@@ -41,8 +41,8 @@
         idUsuario: data.idUsuario,
         nombre: data.nombre,
         email: data.email,
-        perfilUrl: data.perfilUrl,
-        bannerUrl: data.bannerUrl
+        perfilUrl: "http://localhost:5285"+data.perfilUrl,
+        bannerUrl: "http://localhost:5285"+data.bannerUrl
       });
 
       location.hash = "#/Inicio";

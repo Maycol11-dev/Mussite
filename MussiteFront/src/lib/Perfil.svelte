@@ -34,6 +34,16 @@
           </button>
         </li>
         <li class="list-group-item list-group-item-action">
+          <button type="button" class="list-group-item-action w-100 text-start" on:click={() => vista="OfrecerServicio"}>
+            Ofrecer Servicio
+          </button>
+        </li>
+        <li class="list-group-item list-group-item-action">
+          <button type="button" class="list-group-item-action w-100 text-start" on:click={() => vista="CrearCurso"}>
+            Crear Curso
+          </button>
+        </li>
+        <li class="list-group-item list-group-item-action">
           <button type="button" class="list-group-item-action w-100 text-start" on:click={() => vista="MisFavoritos"}>
             Favoritos
           </button>
