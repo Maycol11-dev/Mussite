@@ -17,16 +17,17 @@ El proyecto sigue una **arquitectura de 3 capas** en el backend y utiliza tecnol
 ## 🧰 Tecnologías utilizadas
 
 ### 🔹 Frontend
-- **Svelte**
+- **Svelte + Vite**
 - Fetch API
 - HTML5 / CSS3
 - Responsive UI
 
 ### 🔹 Backend
-- **C# – .NET**
+- **C# – .NET 8**
 - Minimal API
 - 3-layer architecture (Presentation, Application, Domain)
 - Dapper
+- Swagger
 
 ### 🔹 Base de Datos
 - **MySQL**
@@ -34,19 +35,6 @@ El proyecto sigue una **arquitectura de 3 capas** en el backend y utiliza tecnol
 ## 🧱 Arquitectura
 
 El backend está construido bajo una **arquitectura por capas**:
-
-domain
-├─ entities
-├─ DTOs
-├─ interfaces
-
-aplication
-├─ services
-├─ repositories
-├─ Database.cs
-
-presentation
-├─ Program.cs (Minimal API)
 
 ## 🚀 Ejecución del proyecto
 
