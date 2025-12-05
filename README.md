@@ -63,7 +63,7 @@ El proyecto sigue una **arquitectura de 3 capas** en el backend y utiliza tecnol
 
 ## Arquitectura y Diseño
 
-### Arquitectura de 3 capas (Presentation, Application, Domain)
+#### Arquitectura de 3 capas (Presentation, Application, Domain)
 
 ## 🚀 Ejecución del proyecto
 
