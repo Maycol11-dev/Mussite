@@ -103,14 +103,9 @@ npm run dev
 
 * xUnit (2.4.2)
 
-<h1 align="center">
-  <a href="https://et12.edu.ar/">E.T N°12 D.E 1° Libertador Gral. José de San Martín</a>
-</h1>
-
+<h1 align="center"> E.T N°12 D.E 1° Libertador Gral. José de San Martín </h1>
 <p align="center">
-  <a href="https://et12.edu.ar/">
-    <img src="https://et12.edu.ar/imgs/et12.gif" alt="Logo">
-  </a>
+  <img src="https://et12.edu.ar/imgs/et12.gif">
 </p>
 
 # Autor
