@@ -52,10 +52,6 @@ El proyecto sigue una **arquitectura de 3 capas** en el backend y utiliza tecnol
 ### 🔹 Base de Datos
 - **MySQL**
 
-## 🧱 Arquitectura
-
-El backend está construido bajo una **arquitectura por capas**:
-
 ## 🚀 Ejecución del proyecto
 
 ### Backend
@@ -72,3 +68,13 @@ cd MussiteFront
 npm install
 npm run dev
 ```
+<h1 align="center"> E.T N°12 D.E 1° Libertador Gral. José de San Martín </h1>
+<p align="center">
+  <img src="https://et12.edu.ar/imgs/et12.gif">
+</p>
+
+# Autores
+
+* **Maycol Alconz**
+
+---
