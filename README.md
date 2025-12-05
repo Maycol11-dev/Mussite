@@ -11,6 +11,7 @@ Está pensada como una comunidad donde músicos puedan subir sus composiciones, 
 El proyecto sigue una **arquitectura de 3 capas** en el backend y utiliza tecnologías modernas en el frontend para ofrecer una experiencia fluida y responsiva.
 
 ---
+
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -22,9 +23,15 @@ El proyecto sigue una **arquitectura de 3 capas** en el backend y utiliza tecnol
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ---
-
+## Diagrama de Gantt
 ![Diagrama de Gantt](MussiteBackend/docs/Gantt.png)
 <p align="center"> Inicio : 01/12/2025 | Fin : 04/12/2025 | Horas en total : 93 => en Dias : 4 </p>
+
+---
+
+## Diagrama PERT–CPM
+![PERT-CPM](MussiteBackend/docs/PERT-CPM.png)
+
 ---
 
 ## 🧰 Tecnologías utilizadas
