@@ -77,6 +77,32 @@ cd MussiteFront
 npm install
 npm run dev
 ```
+## 📦 Paquetes Utilizados en el Proyecto
+
+### 🗄️ Acceso a Datos
+
+* MySqlConnector (2.4.0)
+* Dapper (2.1.66)
+
+### 🧭 Mapeo y Transformación de Objetos
+
+* Mapster (7.4.0)
+
+### ✔️ Validación
+
+* FluentValidation (12.0.0)
+
+### 📘 Documentación y API
+* Microsoft.AspNetCore.OpenApi (8.0.21)
+* Swashbuckle.AspNetCore (6.6.2)
+
+### 🌐 Infraestructura y HTTP
+* Microsoft.AspNetCore.Http.Abstractions (2.3.0)
+
+### 🧪 Testing
+
+* xUnit (2.4.2)
+
 <h1 align="center"> E.T N°12 D.E 1° Libertador Gral. José de San Martín </h1>
 <p align="center">
   <img src="https://et12.edu.ar/imgs/et12.gif">
