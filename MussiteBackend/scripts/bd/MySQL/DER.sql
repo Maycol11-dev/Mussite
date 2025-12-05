@@ -3,6 +3,13 @@ DROP DATABASE IF EXISTS 5to_mussitedatabase;
 CREATE DATABASE 5to_mussitedatabase;
 USE 5to_mussitedatabase;
 
+CREATE TABLE Noticia (
+    IdNoticia INT AUTO_INCREMENT PRIMARY KEY,
+    Titulo VARCHAR(255) NOT NULL,
+    Fecha DATE NOT NULL,
+    Descripcion TEXT NOT NULL,
+    imagenUrl VARCHAR(255) NOT NULL
+);
 CREATE TABLE Usuario(
     IdUsuario INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
     Nombre VARCHAR(60) NOT NULL,
