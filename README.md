@@ -111,7 +111,7 @@ npm run dev
 # Autor
 
 * **Maycol Alconz**
-* 
+  
 ## Información
 - **Especialización:** Computación
 - **Materia:** Análisis de sistemas  
