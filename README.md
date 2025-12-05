@@ -22,6 +22,7 @@ El proyecto sigue una **arquitectura de 3 capas** en el backend y utiliza tecnol
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ---
 ## Diagrama de Gantt
 ![Diagrama de Gantt](MussiteBackend/docs/Gantt.png)
