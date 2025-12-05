@@ -23,6 +23,10 @@ El proyecto sigue una **arquitectura de 3 capas** en el backend y utiliza tecnol
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ---
 
+![Diagrama de Gantt](MussiteBackend/docs/Gantt.png)
+
+---
+
 ## 🧰 Tecnologías utilizadas
 
 ### 🔹 Frontend
