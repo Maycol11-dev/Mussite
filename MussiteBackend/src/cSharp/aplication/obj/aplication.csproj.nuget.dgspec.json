@@ -1,33 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/aplication/aplication.csproj": {}
+    "C:\\Users\\NoxiePC\\Documents\\GitHub\\Mussite\\MussiteBackend\\src\\cSharp\\aplication\\aplication.csproj": {}
   },
   "projects": {
-    "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/aplication/aplication.csproj": {
+    "C:\\Users\\NoxiePC\\Documents\\GitHub\\Mussite\\MussiteBackend\\src\\cSharp\\aplication\\aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/aplication/aplication.csproj",
+        "projectUniqueName": "C:\\Users\\NoxiePC\\Documents\\GitHub\\Mussite\\MussiteBackend\\src\\cSharp\\aplication\\aplication.csproj",
         "projectName": "aplication",
-        "projectPath": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/aplication/aplication.csproj",
-        "packagesPath": "/home/alumno/.nuget/packages/",
-        "outputPath": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/aplication/obj/",
+        "projectPath": "C:\\Users\\NoxiePC\\Documents\\GitHub\\Mussite\\MussiteBackend\\src\\cSharp\\aplication\\aplication.csproj",
+        "packagesPath": "C:\\Users\\NoxiePC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NoxiePC\\Documents\\GitHub\\Mussite\\MussiteBackend\\src\\cSharp\\aplication\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/alumno/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\NoxiePC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/domain/domain.csproj": {
-                "projectPath": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/domain/domain.csproj"
+              "C:\\Users\\NoxiePC\\Documents\\GitHub\\Mussite\\MussiteBackend\\src\\cSharp\\domain\\domain.csproj": {
+                "projectPath": "C:\\Users\\NoxiePC\\Documents\\GitHub\\Mussite\\MussiteBackend\\src\\cSharp\\domain\\domain.csproj"
               }
             }
           }
@@ -36,7 +43,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -71,26 +84,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/domain/domain.csproj": {
+    "C:\\Users\\NoxiePC\\Documents\\GitHub\\Mussite\\MussiteBackend\\src\\cSharp\\domain\\domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/domain/domain.csproj",
+        "projectUniqueName": "C:\\Users\\NoxiePC\\Documents\\GitHub\\Mussite\\MussiteBackend\\src\\cSharp\\domain\\domain.csproj",
         "projectName": "domain",
-        "projectPath": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/domain/domain.csproj",
-        "packagesPath": "/home/alumno/.nuget/packages/",
-        "outputPath": "/home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/domain/obj/",
+        "projectPath": "C:\\Users\\NoxiePC\\Documents\\GitHub\\Mussite\\MussiteBackend\\src\\cSharp\\domain\\domain.csproj",
+        "packagesPath": "C:\\Users\\NoxiePC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NoxiePC\\Documents\\GitHub\\Mussite\\MussiteBackend\\src\\cSharp\\domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/alumno/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\NoxiePC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -103,7 +123,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -130,7 +156,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

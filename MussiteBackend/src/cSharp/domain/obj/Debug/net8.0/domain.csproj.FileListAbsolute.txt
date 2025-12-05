@@ -11,3 +11,16 @@
 /home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/domain/obj/Debug/net8.0/refint/domain.dll
 /home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/domain/obj/Debug/net8.0/domain.pdb
 /home/alumno/Imágenes/Mussite/MussiteBackend/src/cSharp/domain/obj/Debug/net8.0/ref/domain.dll
+C:\Users\NoxiePC\Documents\GitHub\Mussite\MussiteBackend\src\cSharp\domain\bin\Debug\net8.0\domain.deps.json
+C:\Users\NoxiePC\Documents\GitHub\Mussite\MussiteBackend\src\cSharp\domain\bin\Debug\net8.0\domain.dll
+C:\Users\NoxiePC\Documents\GitHub\Mussite\MussiteBackend\src\cSharp\domain\bin\Debug\net8.0\domain.pdb
+C:\Users\NoxiePC\Documents\GitHub\Mussite\MussiteBackend\src\cSharp\domain\obj\Debug\net8.0\domain.csproj.AssemblyReference.cache
+C:\Users\NoxiePC\Documents\GitHub\Mussite\MussiteBackend\src\cSharp\domain\obj\Debug\net8.0\domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoxiePC\Documents\GitHub\Mussite\MussiteBackend\src\cSharp\domain\obj\Debug\net8.0\domain.AssemblyInfoInputs.cache
+C:\Users\NoxiePC\Documents\GitHub\Mussite\MussiteBackend\src\cSharp\domain\obj\Debug\net8.0\domain.AssemblyInfo.cs
+C:\Users\NoxiePC\Documents\GitHub\Mussite\MussiteBackend\src\cSharp\domain\obj\Debug\net8.0\domain.csproj.CoreCompileInputs.cache
+C:\Users\NoxiePC\Documents\GitHub\Mussite\MussiteBackend\src\cSharp\domain\obj\Debug\net8.0\domain.sourcelink.json
+C:\Users\NoxiePC\Documents\GitHub\Mussite\MussiteBackend\src\cSharp\domain\obj\Debug\net8.0\domain.dll
+C:\Users\NoxiePC\Documents\GitHub\Mussite\MussiteBackend\src\cSharp\domain\obj\Debug\net8.0\refint\domain.dll
+C:\Users\NoxiePC\Documents\GitHub\Mussite\MussiteBackend\src\cSharp\domain\obj\Debug\net8.0\domain.pdb
+C:\Users\NoxiePC\Documents\GitHub\Mussite\MussiteBackend\src\cSharp\domain\obj\Debug\net8.0\ref\domain.dll

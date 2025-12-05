@@ -196,8 +196,7 @@ $: if (busqueda.trim() === "") {
     padding: 0;
     margin: 0;
     font-size: 1.25rem;
-    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-      "Lucida Sans", Arial, sans-serif;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
     cursor: pointer;
     color: inherit;
     margin-bottom: 0.3rem;
