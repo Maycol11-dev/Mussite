@@ -108,8 +108,13 @@ npm run dev
   <img src="https://et12.edu.ar/imgs/et12.gif">
 </p>
 
-# Autores
+# Autor
 
 * **Maycol Alconz**
-
+* 
+## Información
+- **Especialización:** Computación
+- **Materia:** Análisis de sistemas  
+- **Curso:** 5° 7°
+- **Ciclo Lectivo:** 2025
 ---
